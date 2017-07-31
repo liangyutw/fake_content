@@ -7,5 +7,8 @@ $subject_data = $this->random_string(20);<br>
 $content_data = $this->random_string($rand);<br><br>
 
 使用說明<br>
-當標題使用時，不大於20個字數<br>
-當內文使用時，最少大於20個字數<br>
+<ul>
+<li>當標題使用時，不大於20個字數</li>
+<li>當內文使用時，最少大於20個字數</li>
+<li>words.txt請自行減少修改</li>
+</ul>
